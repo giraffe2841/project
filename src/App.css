@@ -1,0 +1,24 @@
+.todo-item{
+    width: 300px;
+    margin: 2px auto 0 auto;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+}
+.TodoList{
+    text-align: center;
+}
+.button{
+     padding: 8px;
+    
+}
+.input{
+  
+    padding: 10px;
+    width: 300px;
+    margin-left:790px;
+    margin-top: 0px;
+}
+.delete button{
+    
+}   
